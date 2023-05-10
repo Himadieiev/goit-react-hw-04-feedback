@@ -1,0 +1,17 @@
+.container {
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.statistic {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.value {
+  font-size: 20px;
+}
